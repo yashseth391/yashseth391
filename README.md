@@ -72,15 +72,6 @@
 
 ---
 
-## 🔥 **Heroic Feats in Code Combat**
-
-- 🏅 **Solved 230+ problems on LeetCode**
-- 🏅 **90+ problems on Codeforces**
-- 🏅 **200+ problems on Coding Ninjas**
-- 🏅 **40+ problems on InterviewBit**
-
----
-
 ## 💪 **Strength Beyond Code**
 
 - 🏋️ **Deadlift:** 220kg @ 63kg BW  
