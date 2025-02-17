@@ -3,15 +3,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Powerlifter+%26+Problem+Solver!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Flutter+%26+Dart+Developer;Powerlifter+%26+Problem+Solver!" />
 </p>
 
 ## 👋 About Me
 
 - 🎓 **B.Tech Student** at *Jaypee Institute of Information Technology* (2022-2026)
-- 🛠 **Full-Stack Developer** | **React Native Enthusiast** | **AI & ML Explorer**
+- 🛠 **Full-Stack Developer** | **React Native & Flutter Enthusiast** | **AI & ML Explorer**
 - 🏋️ **Powerlifter** | **Problem Solver** | **Open Source Contributor**
 - 🥇 **2nd Place in College Math Presentation** | **Vice President - Team Bliss (NGO)**
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Computer Science & Engineering** - *Jaypee Institute of Information Technology (2022-2026)*  
+  - 📊 **CGPA:** 8.91 (Current)
+- **Senior School (Vinayak Academy International School)** - *95.2%*
+- **High School (Gurukulam Public School)** - *95%*
 
 ---
 
@@ -23,35 +32,11 @@
 
 ---
 
-## 💼 Experience
-
-- 🏢 **Full-Stack Developer Intern** @ *NexGen Elit* (Nov 2024 - Present)
-  - Developed **Surpass App** for self-awareness & goal setting
-  - Optimized a **Local Business App**, reducing load times by **30%**
-
-- 🏢 **Full-Stack Developer Intern** @ *Neural Network Labs* (Jan 2025 - Present)
-  - Built **Expiring Manager App** to **reduce food waste**
-  - **Infographic & Meme Generator App** (Ongoing)
-
----
-
-## 🚀 Notable Projects
-
-### **Wasify - AI-Powered Waste Classification App** ♻️
-📌 **Tech Stack:** *React Native, Kinde (Auth), Supabase, YOLO (AI)*
-- Built an **AI-driven waste classification app** using **YOLO object detection**
-- Enables real-time **12-category waste detection** with **high accuracy**
-- **Reduced inference latency**, optimized for mobile
-
-### **AI Chatbot - Virtual Assistant 🤖**
-📌 **Tech Stack:** *React Native, Mistral API*
-- Created a **context-aware chatbot** for intelligent responses
-- Designed a sleek UI for **real-time conversations**
-
----
-
 ## 🛠 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -67,6 +52,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yashseth391&show_icons=true&theme=radical&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashseth391&theme=radical" height="180"/>
   <img src="https://github-profile-trophy.vercel.app/?username=yashseth391&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" />
 </p>
 
 ---
