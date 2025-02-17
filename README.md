@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20There!%20I'm%20Yash%20Seth!🚀&reversal=false&fontAlignY=43&animation=fadeIn&fontColor=ffffff"/>
 </p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yashseth391&theme=radical)
 
 ## 👋 About Me
 
