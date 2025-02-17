@@ -17,20 +17,6 @@
 
 ---
 
-## 🏆 **The Hall of Achievements**
-
-### 🚀 **Galactic Engineering Feats**
-
-### 🏢 **Cybernetic Forge at NexGen Elit (Nov 2024 - Present)**
-- **🔮 Created Surpass App** → Enhanced self-awareness through advanced goal-setting algorithms.
-- **⚡ Refactored local business apps** → Reduced load times by 30%, optimizing performance for seamless experiences.
-
-### 🏢 **AI R&D at Neural Network Labs (Jan 2025 - Present)**
-- **♻️ Expiring Manager App** → Built a system that minimizes food waste with intelligent expiration tracking.
-- **🎭 Infographic & Meme Generator** → Transmuting raw data into viral visuals (in progress).
-
----
-
 ## 🎓 **Ancient Knowledge Repository**
 
 📖 **B.Tech in Computer Science & Engineering** - Jaypee Institute of Information Technology (2022-2026)  
