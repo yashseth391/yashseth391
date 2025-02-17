@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20There!%20I'm%20Yash%20Seth!🚀&reversal=false&fontAlignY=43&animation=fadeIn&fontColor=ffffff"/>
 </p>
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yashseth391&theme=radical)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Powerlifter+%26+Problem+Solver!" />
+</p>
 
 ## 👋 About Me
 
@@ -63,6 +66,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashseth391&show_icons=true&theme=radical&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashseth391&theme=radical" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yashseth391&theme=radical" />
 </p>
 
 ---
@@ -87,6 +91,9 @@
 - 🌍 **Volunteered at 4+ International Conferences**
 
 ---
+
+## 📩 Contact Me
+📧 **Email:** yashseth391@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer"/>
