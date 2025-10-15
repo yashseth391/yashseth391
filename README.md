@@ -33,10 +33,8 @@
 
 ---
 
-### 📊 GitHub Stats & Coding Profiles
-<p align="center">
-[cite_start]I have solved <strong>500+</strong> problems on platforms like LeetCode, Codeforces, Coding Ninjas, and InterviewBit[cite: 35].
-</p>
+### 📊 GitHub Stats 
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashseth391&show_icons=true&theme=radical&count_private=true" height="170" />
