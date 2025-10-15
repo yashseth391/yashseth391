@@ -43,10 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashseth391&layout=compact&theme=radical" height="170" />
 </p>
 <p align="center">
-  <a href="https://leetcode.com/u/yashseth391/">
-    <img align="center" src="https://leetcode-stats.vercel.app/api/card?username=yashseth391&theme=dark" height="170" />
-  </a>
-  <a href="https://codeforces.com/profile/[YOUR_CODEFORCES_USERNAME]">
-    <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=[YOUR_CODEFORCES_USERNAME]&theme=dark" height="170" />
+   <a href="https://leetcode.com/u/yashseth391/">
+    <img src="https://leetcode-stats.vercel.app/api?username=yashseth391&theme=dark" height="170" />
   </a>
 </p>
