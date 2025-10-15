@@ -42,8 +42,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashseth391&show_icons=true&theme=radical&count_private=true" height="170" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashseth391&layout=compact&theme=radical" height="170" />
 </p>
-<p align="center">
-   <a href="https://leetcode.com/u/yashseth391/">
-    <img src="https://leetcode-stats.vercel.app/api?username=yashseth391&theme=dark" height="170" />
-  </a>
-</p>
