@@ -32,7 +32,8 @@
 | **DevOps & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 
 ---
-
+### 🎖️ My Holopin Badges
+[![An image of @yashseth391's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashseth391)](https://holopin.io/@yashseth391)
 ### 📊 GitHub Stats 
 
 
